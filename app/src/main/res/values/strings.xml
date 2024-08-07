@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyProjectCrud</string>
+    <string name="delete_menu">Delete All</string>
+</resources>
